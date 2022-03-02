@@ -1,4 +1,5 @@
 ```sql
+
 -- 5.01:
 -- Skrifið function, FjoldiSkylduafanga sem skilar fjölda skylduáfanga á ákveðinni braut. Brautarnúmerið er
 -- gefið upp þegar fallið(function) er keyrt.
@@ -160,4 +161,5 @@ delimiter ;
 	Raðið eftir skólaheiti, undirskólaheiti, brautarheiti.
 */
 -- kóðinn fyrir þessa lausn er í glósunum frá í gær(06.10.2021).
+
 ```
